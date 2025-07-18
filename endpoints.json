@@ -1,0 +1,18 @@
+{
+  "endpoints": [
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=gr011",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=gr012",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=gr013",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=gr014",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR00003",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR0003",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR001",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR002",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR003",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR004",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR005",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR006",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR007",
+    "ws://192.168.100.202/Interfaces/Media/JackpotsGateway?COMPUTERNAME=GR008"
+  ]
+}
